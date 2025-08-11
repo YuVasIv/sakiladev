@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StaticDataList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>2</Version>
+  <StaticDataLinks>
+    <StaticDataLink>dbo.actor</StaticDataLink>
+    <StaticDataLink>dbo.address</StaticDataLink>
+    <StaticDataLink>dbo.category</StaticDataLink>
+    <StaticDataLink>dbo.city</StaticDataLink>
+    <StaticDataLink>dbo.country</StaticDataLink>
+    <StaticDataLink>dbo.customer</StaticDataLink>
+    <StaticDataLink>dbo.film</StaticDataLink>
+    <StaticDataLink>dbo.inventory</StaticDataLink>
+    <StaticDataLink>dbo.language</StaticDataLink>
+    <StaticDataLink>dbo.Orders</StaticDataLink>
+    <StaticDataLink>dbo.payment</StaticDataLink>
+    <StaticDataLink>dbo.rental</StaticDataLink>
+    <StaticDataLink>dbo.staff</StaticDataLink>
+    <StaticDataLink>dbo.store</StaticDataLink>
+  </StaticDataLinks>
+</StaticDataList>
